@@ -19,7 +19,36 @@
     color: #ffffff;
     
 }
+.atMe {
+    color: #8996A2;
+    display: inline-block;
+}
 
+.timeStamp {
+    color: #8996A2;
+}
 .post1 {
     color: #ffffff;
+}
+
+.post2 {
+    color: #ffffff;
+}
+.post3 {
+    color: #ffffff;
+}
+
+.dot {
+    background-color: #8996A2;
+    border-radius: 50%;
+    width: 2px;
+    height: 2px;
+}
+
+.hashtag {
+    color: #8996A2;
+}
+
+.viewCount {
+    color: #8996A2;
 }
