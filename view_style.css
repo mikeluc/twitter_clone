@@ -38,6 +38,7 @@
     color: #ffffff;
     margin-left: 9px;
     margin-top: 12px;
+    font-size: 14px;
 
     
     
@@ -46,6 +47,7 @@
     color: #8996A2;
     margin-left: 8px;
     margin-top: 12px;
+    font-size: 14px;
 }
 
 .dot {
@@ -54,7 +56,7 @@
     width: 2px;
     height: 2px;
     margin-left: 5px;
-    margin-top: 24px;
+    margin-top: 22px;
 }
 
 
@@ -62,32 +64,53 @@
     color: #8996A2;
     margin-left: 5px;
     margin-top: 12px;
+    font-size: 14px;
 }
 
 .post1 {
     color: #ffffff;
     margin-left: 9px;
     margin-top: 3px;
+    font-size: 14px;
 }
 
 .post2 {
     color: #ffffff;
+    font-size: 14px;
+    margin-top: 1px;
+    margin-left: 9px;
 }
 .post3 {
     color: #ffffff;
+    font-size: 14px;
 }
 
 
 .hashtag {
     color: #4C9EE8;
+    font-size: 14px;
+    margin-top: 1px;
+    margin-left: 9px;
+    margin-bottom: 8px;
 }
 
 .viewCount {
     color: #8996A2;
+    font-size: 12px;
+    margin-top: 3px;
+    margin-left: 9px;
 }
 
 .emo1 {
     width: 22px;
     height: 22px;
     background-color: #ffffff;
+}
+
+.image-content {
+    height: 162px;
+    width: 287px;
+    margin-left: 9px;
+    background-color: #ffffff;
+    border-radius: 12px;
 }
