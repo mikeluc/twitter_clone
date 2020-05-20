@@ -26,7 +26,7 @@
 }
 
 .profile_img {
-    background-color: khaki;
+
     border-radius: 50%;
     width: 48px;
     height: 48px;
@@ -114,4 +114,17 @@
     margin-left: 9px;
     background-color: #ffffff;
     border-radius: 12px;
+}
+
+.num {
+    font-size: 12px;
+    color: #8996A2;
+    font-size: 12px;
+    margin-top: 3px;
+    margin-left: 3px;
+
+}
+
+.chatIcon {
+    margin-left: 9px;
 }
