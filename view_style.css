@@ -4,6 +4,25 @@
     height: 311px;
     font-family: 'Roboto', sans-serif;
     position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+.row1 {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.inrow1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.col1 {
+    display: flex;
+    flex-direction: column;
 }
 
 .profile_img {
@@ -17,18 +36,38 @@
 
 .name {
     color: #ffffff;
+    margin-left: 9px;
+    margin-top: 12px;
+
+    
     
 }
 .atMe {
     color: #8996A2;
-    display: inline-block;
+    margin-left: 8px;
+    margin-top: 12px;
 }
+
+.dot {
+    background-color: #8996A2;
+    border-radius: 50%;
+    width: 2px;
+    height: 2px;
+    margin-left: 5px;
+    margin-top: 24px;
+}
+
 
 .timeStamp {
     color: #8996A2;
+    margin-left: 5px;
+    margin-top: 12px;
 }
+
 .post1 {
     color: #ffffff;
+    margin-left: 9px;
+    margin-top: 3px;
 }
 
 .post2 {
@@ -38,17 +77,17 @@
     color: #ffffff;
 }
 
-.dot {
-    background-color: #8996A2;
-    border-radius: 50%;
-    width: 2px;
-    height: 2px;
-}
 
 .hashtag {
-    color: #8996A2;
+    color: #4C9EE8;
 }
 
 .viewCount {
     color: #8996A2;
+}
+
+.emo1 {
+    width: 22px;
+    height: 22px;
+    background-color: #ffffff;
 }
